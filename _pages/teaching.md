@@ -2,10 +2,11 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Courses details
+description: Course details
 nav: true
 nav_order: 6
 ---
+<body>
 <style>
   section { margin-block: 1rem; }
 
@@ -67,3 +68,4 @@ nav_order: 6
     </ul>
   </section>
 </section>
+</body>
