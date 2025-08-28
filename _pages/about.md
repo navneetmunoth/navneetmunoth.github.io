@@ -5,11 +5,11 @@ permalink: /
 subtitle: <a href='#'>Associate Professor</a>. Architecture & Planning, MANIT, Bhopal
 
 profile:
-  align: left
+  align: right
   image: self.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Dr. Munoth at an event at MANIT, Bhopal</p>
+    <p>Dr. Munoth at an event at MANIT</p>
     <p>Bhopal, Madhya Pradesh 462003</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
