@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2023
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+Awarded the 'K F Antia Memorial Prize' at the 38th Indian Engineering Congress at Jabalpur. Issued by The Institution of Engineers (India) · Dec 2023! :sparkles: :smile:
