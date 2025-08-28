@@ -28,11 +28,6 @@ nav_order: 6
 
   <section aria-labelledby="pg-courses">
     <h3 id="pg-courses">Postgraduate</h3>
-<!--     <!-- Add items as needed -->
-    <ul>
-      <li><!-- e.g., Urban Housing Policy and Governance --></li>
-      <li><!-- e.g., Sustainable Building Systems --></li>
-    </ul> -->
   </section>
 </section>
 
