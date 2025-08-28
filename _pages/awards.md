@@ -4,7 +4,7 @@ permalink: /awards/
 title: awards
 description: Awards and Achievements
 nav: true
-nav_order: 7
+nav_order: 8
 ---
 <style>
   .award-card {
