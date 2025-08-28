@@ -8,17 +8,37 @@ nav_order: 6
 ---
 <style>
   section { margin-block: 1rem; }
-  h2 { margin-bottom: .25rem; }
-  h3 { margin: .75rem 0 .5rem; }
-  ul { margin: 0 0 .5rem 1.25rem; }
-  p { margin: 0 0 .5rem; }
+
+  h2 {
+    margin-bottom: .5rem;
+    font-size: 1.5rem;       /* Bigger than h3/h4 */
+    font-weight: 700;        /* Bolder */
+    color: #2c3e50;          /* Darker shade for emphasis */
+    border-bottom: 2px solid #3498db; /* Underline effect */
+    padding-bottom: .25rem;  /* Space below text */
+  }
+
+  h3, h4 {
+    margin: .75rem 0 .5rem;
+    font-size: 1.1rem;       /* Smaller than h2 */
+    font-weight: 600;
+    color: #34495e;
+  }
+
+  ul {
+    margin: 0 0 .5rem 1.25rem;
+  }
+
+  p {
+    margin: 0 0 .5rem;
+  }
 </style>
 
 <section aria-labelledby="courses-taught">
   <h2 id="courses-taught">Courses Taught</h2>
 
   <section aria-labelledby="ug-courses">
-    <h3 id="ug-courses">Undergraduate</h3>
+    <h4 id="ug-courses">Undergraduate</h4>
     <ul>
       <li>Housing and Community Planning</li>
       <li>Architectural Design VI &amp; VII</li>
@@ -27,7 +47,7 @@ nav_order: 6
   </section>
 
   <section aria-labelledby="pg-courses">
-    <h3 id="pg-courses">Postgraduate</h3>
+    <h4 id="pg-courses">Postgraduate</h4>
   </section>
 </section>
 
@@ -35,12 +55,12 @@ nav_order: 6
   <h2 id="theses-supervised">Theses Supervised</h2>
 
   <section aria-labelledby="pg-projects">
-    <h3 id="pg-projects">Postgraduate Projects</h3>
+    <h4 id="pg-projects">Postgraduate Projects</h4>
     <p><strong>Completed:</strong> 9</p>
   </section>
 
   <section aria-labelledby="phd-theses">
-    <h3 id="phd-theses">Ph.D. Theses</h3>
+    <h4 id="phd-theses">Ph.D. Theses</h4>
     <ul>
       <li><strong>Awarded:</strong> 1</li>
       <li><strong>In Progress:</strong> 4</li>
