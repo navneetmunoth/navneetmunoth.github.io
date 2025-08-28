@@ -45,9 +45,6 @@ nav_order: 7
 </style>
 
 <h2>Awards & Achievements</h2>
-<p style="text-align:center; font-family:'Segoe UI', sans-serif;">
-  By God's grace, I have received the following awards and recognitions.
-</p>
 
 <!-- 2023 -->
 <div class="award-card">
