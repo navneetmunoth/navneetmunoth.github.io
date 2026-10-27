@@ -1,8 +1,10 @@
 # Dr. Navneet Munoth — Academic Website
 
-A responsive, static academic profile for Dr. Navneet Munoth. The site uses plain HTML and CSS, so it can be hosted on GitHub Pages without a build step.
+**Live site: [navneetmunoth.github.io](https://navneetmunoth.github.io)**
 
-The site includes a detailed academic CV based on the supplied resumes. Personal and family details and private residential contact information from those documents are intentionally omitted from the public profile.
+Academic website of Dr. Navneet Munoth, Associate Professor, Department of Architecture & Planning, [MANIT Bhopal](https://www.manit.ac.in/dr-navneet-munoth). His work covers sustainable architecture, urban planning, smart cities, remote sensing and GIS, and climate-responsive design.
+
+The site is plain HTML, CSS and JavaScript, so GitHub Pages hosts it without a build step. It includes research areas, ongoing and completed projects, publications, a detailed academic CV and a downloadable CV PDF. Personal and family details and private residential contact information are intentionally omitted.
 
 ## Preview locally
 
@@ -16,7 +18,7 @@ Then visit `http://localhost:8000`.
 
 ## Publish with GitHub Pages
 
-In the repository settings, open **Pages**, select **Deploy from a branch**, and choose the `main` branch and `/ (root)` folder. After deployment, the site will be available at the repository’s GitHub Pages URL.
+In the repository settings, open **Pages**, select **Deploy from a branch**, and choose the `main` branch and `/ (root)` folder. This repository is named `navneetmunoth.github.io`, so the site is served at https://navneetmunoth.github.io.
 
 ## Updating the site
 
